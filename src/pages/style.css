@@ -1,0 +1,19 @@
+header{
+    height: 150px;
+    border: 2px dashed blue;
+    background-color: azure;
+    text-align: center;
+}
+footer{
+    height: 180px;
+    border: 2px green;
+    background-color: aquamarine;
+    text-align: center;
+}
+.main{
+    height: 500px;
+    border: 5px solid darkgoldenrod;
+    display: flex;
+    justify-content: center;
+
+}
